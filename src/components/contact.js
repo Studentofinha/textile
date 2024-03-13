@@ -34,7 +34,7 @@ function AppContact() {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        chat_id: 6844270036,
+        chat_id: 6875105632,
         text:messages
   
       }),
